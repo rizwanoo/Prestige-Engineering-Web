@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" fill="none">
+  <defs>
+    <linearGradient id="pe-blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2CD4FF" />
+      <stop offset="50%" stop-color="#1E7BFF" />
+      <stop offset="100%" stop-color="#2457A6" />
+    </linearGradient>
+    <linearGradient id="pe-fill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0B1930" />
+      <stop offset="100%" stop-color="#060D1A" />
+    </linearGradient>
+  </defs>
+  <!-- P Monogram -->
+  <path
+    d="M18 18 H64 L76 30 V58 L64 70 H30 V96 L18 108 V18 Z"
+    fill="url(#pe-fill)"
+    stroke="url(#pe-blue)"
+    stroke-width="3.2"
+    stroke-linejoin="miter"
+  />
+  <path
+    d="M30 34 H58 L62 38 V50 L58 54 H30 V34 Z"
+    fill="#050911"
+    stroke="#2CD4FF"
+    stroke-width="2.2"
+  />
+  <!-- Inner circuit/industrial accent on P -->
+  <path d="M18 30 V92" stroke="#1E7BFF" stroke-width="1.5" opacity="0.85" />
+  <circle cx="24" cy="48" r="1.6" fill="#2CD4FF" />
+  <circle cx="24" cy="55" r="1.6" fill="#2CD4FF" />
+  <circle cx="24" cy="62" r="1.6" fill="#2CD4FF" />
+  <path d="M22 22 L28 28 M29 22 L35 28 M36 22 L42 28" stroke="#2CD4FF" stroke-width="2" />
+
+  <!-- E Monogram -->
+  <path
+    d="M84 30 L96 18 H150 L142 30 H102 V50 H138 L148 60 L138 70 H102 V90 H142 L150 102 H96 L84 90 V30 Z"
+    fill="url(#pe-fill)"
+    stroke="url(#pe-blue)"
+    stroke-width="3.2"
+    stroke-linejoin="miter"
+  />
+  <path d="M93 34 V86" stroke="#1E7BFF" stroke-width="1.5" opacity="0.85" />
+  <circle cx="96" cy="53" r="1.6" fill="#2CD4FF" />
+  <circle cx="96" cy="60" r="1.6" fill="#2CD4FF" />
+  <circle cx="96" cy="67" r="1.6" fill="#2CD4FF" />
+  <path d="M126 22 L132 28 M133 22 L139 28 M140 22 L146 28" stroke="#2CD4FF" stroke-width="2" />
+  <path d="M126 92 L132 98 M133 92 L139 98 M140 92 L146 98" stroke="#2CD4FF" stroke-width="2" />
+</svg>
